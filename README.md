@@ -170,7 +170,7 @@ Waypoint server broadcasts transforms from `utm` frame to `<waypoint-name>` fram
 
 Example:
 
-![tf_tree](./resource/waypoints_tf_tree.png)
+![tf_tree](./waypoint_server/resource/waypoints_tf_tree.png)
 
 These transform will allow the rover go from current state (its frame relative to map is known: `map` -> `odom` -> `base_link`) to any waypoint (its frame relative to utm is known: `utm` -> `<waypoint-name>`).
 

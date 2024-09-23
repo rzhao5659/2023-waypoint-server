@@ -1,3 +1,6 @@
+Video demo: https://youtu.be/_fKc2nrKJko
+
+
 # Waypoint Server
 
 The waypoint server manage different types of waypoints.

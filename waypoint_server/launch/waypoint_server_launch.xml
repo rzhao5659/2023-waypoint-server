@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="waypoint_server" exec="server">
+        <param name="publish_period" value="1"/>
+        <param name="disable_tf" value="False"/>
+        <param name="persist_path" value="waypoints.db"/>
+    </node>
+</launch>

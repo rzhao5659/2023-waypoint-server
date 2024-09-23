@@ -1,0 +1,5 @@
+Waypoint waypoint
+string current_name
+---
+bool success
+string message
